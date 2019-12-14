@@ -170,7 +170,7 @@ function validateConf(document, confpath, delimiter) {
       //   または
       // R 正規表現 置換表現 親段落スタイル名
       //   または
-		  // R 正規表現 置換表現
+      // R 正規表現 置換表現
       if (sa.length < 3 || sa.length > 5) {
         errs.push(lineno + "行: 置換適用行が3列〜5列で構成されていません。");
       } else {
