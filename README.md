@@ -5,6 +5,7 @@
 
 ## ダウンロード
 
+[GitHub](https://github.com/kmuto/dtpadventcalendar2019) のページの「Clone or download」ボタンをクリックして「Download ZIP」を選ぶと、dtpadventcalendar2019-master.zip がダウンロードされるので、適当なフォルダに展開してください。
 
 `git clone https://github.com/kmuto/dtpadventcalendar2019.git` でこのリポジトリをクローンすることもできます。
 
@@ -17,6 +18,8 @@
 
 - macOSであれば、ユーザーホームのLibrary/Preferences/Adobe InDesign/利用バージョン/ja_JP/Scripts/Scripts Panelフォルダ
 - Windowsであれば、ユーザーホームのApplication Data\Adobe\InDesign\利用バージョン\ja_JP\Scripts\Scripts Panelフォルダ
+
+samples フォルダには、記事で利用したサンプルデータを用意しています。
 
 ## ライセンス
 
