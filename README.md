@@ -1,9 +1,15 @@
-* DTP Advent Calendar 2019
+# DTP Advent Calendar 2019
 [DTP Advent Calendar 2019](https://adventar.org/calendars/3958) の15日目「[Markdownファイルをpandocを使わずに力ずくで組む方法](https://kmuto.jp/d/?date=20191215#p01)」の記事で紹介したスクリプトです。
 
 詳細については記事をご参照ください。
 
-** インストール
+## ダウンロード
+
+[GitHub](https://github.com/kmuto/dtpadventcalendar2019) のページの「Clone or download」ボタンをクリックして「Download ZIP」を選ぶと、dtpadventcalendar2019-master.zip がダウンロードされるので、適当なフォルダに展開してください。
+
+`git clone https://github.com/kmuto/dtpadventcalendar2019.git` でこのリポジトリをクローンすることもできます。
+
+## インストール
 
 - dialogChooseStyleDefs.jsx
 - dialogApplyStyles.jsx
@@ -13,7 +19,9 @@
 - macOSであれば、ユーザーホームのLibrary/Preferences/Adobe InDesign/利用バージョン/ja_JP/Scripts/Scripts Panelフォルダ
 - Windowsであれば、ユーザーホームのApplication Data\Adobe\InDesign\利用バージョン\ja_JP\Scripts\Scripts Panelフォルダ
 
-** ライセンス
+samples フォルダには、記事で利用したサンプルデータを用意しています。
+
+## ライセンス
 
 ```
 ソフトウェア使用許諾同意書
